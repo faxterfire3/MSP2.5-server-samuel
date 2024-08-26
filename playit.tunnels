@@ -59,7 +59,7 @@
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "aadd64a2-c900-472f-b324-74afe4286b3c",
+          "id": "279196c6-9a99-4b77-9d54-65efb8e74078",
           "ip_hostname": "22.ip.gl.ply.gg",
           "ip_type": "both",
           "port_end": 1689,
@@ -70,12 +70,12 @@
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-24T16:29:26.001198Z",
+      "created_at": "2024-08-25T23:55:46.076098Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "2c5a8a5b-424e-40a4-af66-2e99d30fd30b",
+      "id": "f7c730ba-ed50-4744-8c77-dac1bcbdcbcc",
       "name": "Minecraft Bedrock",
       "origin": {
         "data": {
