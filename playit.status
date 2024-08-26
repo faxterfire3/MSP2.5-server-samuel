@@ -11365,3 +11365,18 @@ design-personals.gl.at.ply.gg:1688 => 127.0.0.1:1688 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.21): 1724637090472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+apple-lip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+design-personals.gl.at.ply.gg:1688 => 127.0.0.1:1688 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.21): 1724637093535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+apple-lip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+design-personals.gl.at.ply.gg:1688 => 127.0.0.1:1688 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
